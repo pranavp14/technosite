@@ -1,2 +1,2 @@
-mini project
+https://technositemini.netlify.app/
 
