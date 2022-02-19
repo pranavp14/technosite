@@ -1,9 +1,9 @@
 https://technositemini.netlify.app/
 
-![](assests/img/Home.png)
+![](assets/img/Home.png)
 
-![](assests/img/comp.png)
+![](assets/img/comp.png)
 
-![](assests/img/acad.png)
+![](assets/img/acad.png)
 
-![](assests/img/textbook.png)
+![](assets/img/textbook.png)
